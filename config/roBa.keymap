@@ -107,7 +107,7 @@
 
         MOUSE {
             bindings = <
-&kp Q   &kp W   &kp E   &kp R   &trans                      &kp LG(T)  &kp LG(LS(T))  &kp LA(LG(LEFT_ARROW))  &kp LA(LG(RIGHT_ARROW))  &trans
+&kp Q   &kp W   &kp E   &kp R   &kp T                       &kp LG(T)  &kp LG(LS(T))  &kp LA(LG(LEFT_ARROW))  &kp LA(LG(RIGHT_ARROW))  &trans
 &trans  &trans  &trans  &kp F   &trans  &trans      &trans  &kp LG(W)  &mkp MB1       &mkp MB2                &mkp MB3                 &trans
 &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans     &mkp MB4       &mkp MB5                &trans                   &trans
 &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans                                                                     &trans
