@@ -94,7 +94,7 @@
         NUM {
             bindings = <
 &kp MINUS                   &trans           &trans  &trans             &kp PLUS                                      &kp CARET         &kp AMPERSAND      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp TILDE
-&kp SLASH                   &kp KP_NUMBER_4  &trans  &kp DOUBLE_QUOTES  &kp ASTERISK  &kp C_MUTE      &kp UNDERSCORE  &kp EXCLAMATION   &kp AT_SIGN        &kp HASH              &kp DOLLAR             &kp PERCENT
+&kp SLASH                   &trans           &trans  &kp DOUBLE_QUOTES  &kp ASTERISK  &kp C_MUTE      &kp UNDERSCORE  &kp EXCLAMATION   &kp AT_SIGN        &kp HASH              &kp DOLLAR             &kp PERCENT
 &mt LEFT_SHIFT KP_NUMBER_0  &kp KP_NUMBER_1  &trans  &kp SEMI           &kp COLON     &kp EQUAL       &kp QUESTION    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp BACKSLASH
 &trans                      &trans           &trans  &trans             &trans        &trans          &trans          &trans                                                                            &kp PIPE
             >;
