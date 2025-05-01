@@ -93,7 +93,7 @@
 
         NUM {
             bindings = <
-&kp MINUS  &kp LS(LC(N5))  &trans  &trans             &kp PLUS                                            &kp CARET              &kp EXCLAMATION  &kp AT_SIGN   &kp HASH              &kp TILDE
+&kp MINUS  &kp LS(LG(N5))  &trans  &trans             &kp PLUS                                            &kp CARET              &kp EXCLAMATION  &kp AT_SIGN   &kp HASH              &kp TILDE
 &kp SLASH  &trans          &trans  &kp DOUBLE_QUOTES  &kp ASTERISK  &kp C_MUTE      &kp SEMICOLON         &kp COLON              &kp DOLLAR       &kp PERCENT   &kp CARET             &kp DOUBLE_QUOTES
 &trans     &trans          &trans  &kp SEMI           &kp COLON     &kp EQUAL       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp AMPERSAND    &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
 &trans     &trans          &trans  &trans             &trans        &trans          &trans                &trans                                                                      &kp PIPE
