@@ -91,16 +91,16 @@
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
         };
 
-        NUM {
+        Icon {
             bindings = <
 &kp MINUS  &kp LS(LG(N5))  &trans  &trans             &kp PLUS                                            &kp CARET              &kp EXCLAMATION  &kp AT_SIGN   &kp HASH              &kp TILDE
-&kp SLASH  &trans          &trans  &kp DOUBLE_QUOTES  &kp ASTERISK  &kp C_MUTE      &kp SEMICOLON         &kp COLON              &kp DOLLAR       &kp PERCENT   &kp CARET             &kp DOUBLE_QUOTES
+&kp SLASH  &trans          &trans  &kp DOUBLE_QUOTES  &kp ASTERISK  &kp C_MUTE      &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp DOLLAR       &kp PERCENT   &kp CARET             &kp DOUBLE_QUOTES
 &trans     &trans          &trans  &kp SEMI           &kp COLON     &kp EQUAL       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp AMPERSAND    &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
 &trans     &trans          &trans  &trans             &trans        &trans          &trans                &trans                                                                      &kp PIPE
             >;
         };
 
-        FUNCTION {
+        Function-Num {
             bindings = <
 &kp F1   &kp F2   &kp F3                  &kp F4             &kp F5                                                                                                      &trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans
 &kp F6   &kp F7   &kp F8                  &kp F9             &kp F10                  &trans                                                                     &trans  &trans  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &trans
